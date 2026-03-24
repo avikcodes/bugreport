@@ -251,7 +251,8 @@ This is **Project 3 of 30** in my open-source build sprint.
 
 Building 30 open-source AI tools for developers and researchers — March to December 2026.
 
-→ Follow on X: [@avikcodes](https://x.com/avikcodes)
+→ Follow on X: [@Avik12345678](https://x.com/Avik12345678)
+
 → All projects: [github.com/avikcodes](https://github.com/avikcodes)
 
 ---
